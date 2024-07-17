@@ -1,4 +1,4 @@
-# -Scroller-with-JS-by-Kevin-Powell
+# Scroller-with-JS-by-Kevin-Powell
 
 playground
 
